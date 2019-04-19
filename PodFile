@@ -1,0 +1,7 @@
+target 'ImageBrowser' do
+
+pod 'SDWebImage', '~> 5.0'
+pod 'FLAnimatedImage'
+pod 'Masonry'
+
+end
